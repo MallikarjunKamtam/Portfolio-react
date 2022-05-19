@@ -1,0 +1,14 @@
+.repos {
+  color: blue;
+}
+.repos:hover {
+  text-decoration: underline;
+}
+.works {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+h2:hover {
+  text-decoration: underline;
+}

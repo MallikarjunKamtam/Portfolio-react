@@ -1,0 +1,14 @@
+.about-me {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 400px;
+  margin: auto;
+  margin-bottom: 50px;
+  padding: 40px;
+}
+
+.about-me:hover {
+  box-shadow: 5px 5px 20px black;
+}

@@ -1,0 +1,146 @@
+.profile {
+  background-image: url("../../Images/dp.png");
+  background-repeat: no-repeat;
+  background-color: aliceblue;
+  width: 100%;
+  height: 800px;
+}
+
+.profile:hover {
+  background-color: rgba(0, 0, 0, 0.5);
+  transition: all 1s;
+  background-blend-mode: multiply;
+}
+.profile:hover .view-button {
+  color: white;
+  border: 2px solid white;
+  cursor: pointer;
+  visibility: visible;
+  transition: all 1s;
+  transform: scale(1.04);
+}
+
+.profile:hover .description {
+  color: white;
+  visibility: visible;
+}
+
+.description {
+  position: relative;
+  left: 200px;
+  top: 400px;
+  font-size: 2rem;
+  visibility: hidden;
+}
+
+.view-button {
+  position: relative;
+  left: 775px;
+  top: 450px;
+  border: 2px solid white;
+  width: 120px;
+  height: 50px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  visibility: hidden;
+  border-radius: 30px;
+  font-size: 2rem;
+}
+
+.work {
+  background-image: url("../../Images/work.gif");
+  width: 50%;
+  height: 700px;
+}
+
+.about {
+  width: 50%;
+  height: 700px;
+  background-color: rgb(127, 214, 255);
+}
+
+.work-about {
+  display: flex;
+}
+
+.work-description {
+  position: relative;
+  top: 60px;
+  left: -135px;
+  font-size: 2rem;
+  color: white;
+  visibility: hidden;
+}
+.work-view-button {
+  position: relative;
+  top: 100px;
+  right: -120px;
+  border: 2px solid white;
+  width: 120px;
+  height: 50px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  visibility: hidden;
+  border-radius: 30px;
+  cursor: pointer;
+  font-size: 2rem;
+}
+
+.work:hover .work-view-button,
+.work-description {
+  visibility: visible;
+  transform: scale(1.1);
+  transition: all 5s;
+}
+
+.work:hover {
+  background-color: rgba(0, 0, 0, 0.5);
+  transition: all 1s;
+  background-blend-mode: multiply;
+}
+
+.social-media {
+  width: 50%;
+  position: relative;
+  top: 200px;
+}
+
+.about-description {
+  font-size: 2rem;
+  color: white;
+  position: relative;
+  top: 55px;
+}
+
+.about-view-button {
+  border: 2px solid white;
+  width: 120px;
+  height: 50px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  visibility: hidden;
+  border-radius: 30px;
+  cursor: pointer;
+  font-size: 2rem;
+  position: relative;
+  top: 100px;
+  left: 250px;
+}
+
+.about:hover {
+  background-color: rgba(0, 0, 0, 0.5);
+  transition: all 1s;
+  background-blend-mode: multiply;
+}
+
+.about:hover .about-view-button {
+  visibility: visible;
+  transform: scale(1.1);
+  transition: all 5s;
+}

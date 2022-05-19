@@ -1,0 +1,31 @@
+.footer-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 100px 0;
+}
+
+.footer-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 20px 50px;
+}
+
+.copyright {
+  font-size: 2rem;
+}
+
+i {
+  font-size: 1.5rem;
+}
+
+.icon:hover {
+  transform: scale(1.1);
+}

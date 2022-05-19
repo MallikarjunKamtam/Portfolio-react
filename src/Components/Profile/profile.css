@@ -1,0 +1,14 @@
+.skill {
+  width: 10%;
+  margin: 50px;
+}
+.skills-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.award-img {
+  width: 50%;
+  margin: 50px;
+}
