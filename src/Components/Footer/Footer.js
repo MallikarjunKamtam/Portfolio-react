@@ -56,6 +56,15 @@ const Footer = () => {
           </div>
         </div>
       </div>
+      <div
+        className="move-to-top"
+        onClick={() => {
+          window.scrollTo({ top: 0, left: 0, behavious: "smooth" });
+        }}
+      >
+        <i class="fi fi-rr-angle-up"></i>
+        <p>Move to top</p>
+      </div>
     </div>
   );
 };

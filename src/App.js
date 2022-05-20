@@ -20,7 +20,7 @@ function App() {
           <Route path="about" element={<About />}></Route>
           <Route path="work" element={<Work />}></Route>
           <Route path="profile" element={<Profile />}></Route>
-          <Route path="pagenotfound" element={<PageNotFound />}></Route>
+          <Route path="*" element={<PageNotFound />}></Route>
         </Routes>
         <Footer />
       </Router>

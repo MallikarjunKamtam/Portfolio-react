@@ -1,0 +1,17 @@
+.pnf {
+  width: 10%;
+}
+
+.pnf-img-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+h3,
+h4 {
+  margin: 50px;
+}
+.pnf-container {
+  border-bottom: 2px solid black;
+}

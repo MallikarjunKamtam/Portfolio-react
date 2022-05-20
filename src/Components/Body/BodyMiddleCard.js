@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const BodyMiddleCard = () => {
   return (
     <div>
-      <div className="profile">
+      <div id="scroll" className="profile">
         <div className="description">Profile</div>
         <Link to="/profile">
           <div className="view-button">View</div>
