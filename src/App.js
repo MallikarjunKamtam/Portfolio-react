@@ -20,7 +20,7 @@ function App() {
           <Route path="about" element={<About />}></Route>
           <Route path="work" element={<Work />}></Route>
           <Route path="profile" element={<Profile />}></Route>
-          <Route path="*" element={<PageNotFound />}></Route>
+          <Route path="*" element={<Home />}></Route>
         </Routes>
         <Footer />
       </Router>
@@ -31,3 +31,5 @@ function App() {
 export default App;
 
 // https://mallikarjunkamtam.github.io/Portfolio-react/
+
+//changed the pagenot found to Home at line 23
