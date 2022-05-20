@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/MallikarjunKamtam/Portfolio-react/static/css/main.a95f99de.css",
+    "main.js": "/MallikarjunKamtam/Portfolio-react/static/js/main.0fff85af.js",
+    "static/media/work.gif": "/MallikarjunKamtam/Portfolio-react/static/media/work.c2411b30b8567484fb4b.gif",
+    "static/media/award1.jpg": "/MallikarjunKamtam/Portfolio-react/static/media/award1.df8a381a078d2cbe3c0e.jpg",
+    "static/media/award2.jpg": "/MallikarjunKamtam/Portfolio-react/static/media/award2.e027c1690037e3a90677.jpg",
+    "static/media/dp.png": "/MallikarjunKamtam/Portfolio-react/static/media/dp.0c3fdec6b51fd19747e6.png",
+    "static/media/physics.png": "/MallikarjunKamtam/Portfolio-react/static/media/physics.86c8d9eba03e29814d2a.png",
+    "static/media/error.png": "/MallikarjunKamtam/Portfolio-react/static/media/error.541053d0825e37d0b178.png",
+    "static/media/figma.png": "/MallikarjunKamtam/Portfolio-react/static/media/figma.72fbc535ebe253a5dbc4.png",
+    "static/media/html.png": "/MallikarjunKamtam/Portfolio-react/static/media/html.6e930594286d8afe4c79.png",
+    "static/media/photoshop.png": "/MallikarjunKamtam/Portfolio-react/static/media/photoshop.047cad202c4a70579aa2.png",
+    "static/media/css-3.png": "/MallikarjunKamtam/Portfolio-react/static/media/css-3.463e319bad8e0edf1ef7.png",
+    "static/media/lost.png": "/MallikarjunKamtam/Portfolio-react/static/media/lost.323b23bcde0cd64a9f28.png",
+    "static/media/js.png": "/MallikarjunKamtam/Portfolio-react/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/social-media.png": "/MallikarjunKamtam/Portfolio-react/static/media/social-media.5c5b0c9082fd8f26a3f1.png",
+    "static/media/premiere.png": "/MallikarjunKamtam/Portfolio-react/static/media/premiere.128dd5f3cededb7b3d4e.png",
+    "index.html": "/MallikarjunKamtam/Portfolio-react/index.html",
+    "main.a95f99de.css.map": "/MallikarjunKamtam/Portfolio-react/static/css/main.a95f99de.css.map",
+    "main.0fff85af.js.map": "/MallikarjunKamtam/Portfolio-react/static/js/main.0fff85af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a95f99de.css",
+    "static/js/main.0fff85af.js"
+  ]
+}
