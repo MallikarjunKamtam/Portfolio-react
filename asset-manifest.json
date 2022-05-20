@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/mallikarjunkamtam/Portfolio-react/static/css/main.244c966e.css",
-    "main.js": "/mallikarjunkamtam/Portfolio-react/static/js/main.8c284528.js",
-    "static/media/work.gif": "/mallikarjunkamtam/Portfolio-react/static/media/work.c2411b30b8567484fb4b.gif",
-    "static/media/award1.jpg": "/mallikarjunkamtam/Portfolio-react/static/media/award1.df8a381a078d2cbe3c0e.jpg",
-    "static/media/award2.jpg": "/mallikarjunkamtam/Portfolio-react/static/media/award2.e027c1690037e3a90677.jpg",
-    "static/media/dp.png": "/mallikarjunkamtam/Portfolio-react/static/media/dp.0c3fdec6b51fd19747e6.png",
-    "static/media/physics.png": "/mallikarjunkamtam/Portfolio-react/static/media/physics.86c8d9eba03e29814d2a.png",
-    "static/media/error.png": "/mallikarjunkamtam/Portfolio-react/static/media/error.541053d0825e37d0b178.png",
-    "static/media/figma.png": "/mallikarjunkamtam/Portfolio-react/static/media/figma.72fbc535ebe253a5dbc4.png",
-    "static/media/html.png": "/mallikarjunkamtam/Portfolio-react/static/media/html.6e930594286d8afe4c79.png",
-    "static/media/photoshop.png": "/mallikarjunkamtam/Portfolio-react/static/media/photoshop.047cad202c4a70579aa2.png",
-    "static/media/css-3.png": "/mallikarjunkamtam/Portfolio-react/static/media/css-3.463e319bad8e0edf1ef7.png",
-    "static/media/lost.png": "/mallikarjunkamtam/Portfolio-react/static/media/lost.323b23bcde0cd64a9f28.png",
-    "static/media/js.png": "/mallikarjunkamtam/Portfolio-react/static/media/js.3dfb665e058d08c99f28.png",
-    "static/media/social-media.png": "/mallikarjunkamtam/Portfolio-react/static/media/social-media.5c5b0c9082fd8f26a3f1.png",
-    "static/media/premiere.png": "/mallikarjunkamtam/Portfolio-react/static/media/premiere.128dd5f3cededb7b3d4e.png",
-    "index.html": "/mallikarjunkamtam/Portfolio-react/index.html",
-    "main.244c966e.css.map": "/mallikarjunkamtam/Portfolio-react/static/css/main.244c966e.css.map",
-    "main.8c284528.js.map": "/mallikarjunkamtam/Portfolio-react/static/js/main.8c284528.js.map"
+    "main.css": "/Portfolio-react/static/css/main.ac01446d.css",
+    "main.js": "/Portfolio-react/static/js/main.a7225b0d.js",
+    "static/media/work.gif": "/Portfolio-react/static/media/work.c2411b30b8567484fb4b.gif",
+    "static/media/award1.jpg": "/Portfolio-react/static/media/award1.df8a381a078d2cbe3c0e.jpg",
+    "static/media/award2.jpg": "/Portfolio-react/static/media/award2.e027c1690037e3a90677.jpg",
+    "static/media/dp.png": "/Portfolio-react/static/media/dp.0c3fdec6b51fd19747e6.png",
+    "static/media/physics.png": "/Portfolio-react/static/media/physics.86c8d9eba03e29814d2a.png",
+    "static/media/error.png": "/Portfolio-react/static/media/error.541053d0825e37d0b178.png",
+    "static/media/figma.png": "/Portfolio-react/static/media/figma.72fbc535ebe253a5dbc4.png",
+    "static/media/html.png": "/Portfolio-react/static/media/html.6e930594286d8afe4c79.png",
+    "static/media/photoshop.png": "/Portfolio-react/static/media/photoshop.047cad202c4a70579aa2.png",
+    "static/media/css-3.png": "/Portfolio-react/static/media/css-3.463e319bad8e0edf1ef7.png",
+    "static/media/lost.png": "/Portfolio-react/static/media/lost.323b23bcde0cd64a9f28.png",
+    "static/media/js.png": "/Portfolio-react/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/social-media.png": "/Portfolio-react/static/media/social-media.5c5b0c9082fd8f26a3f1.png",
+    "static/media/premiere.png": "/Portfolio-react/static/media/premiere.128dd5f3cededb7b3d4e.png",
+    "index.html": "/Portfolio-react/index.html",
+    "main.ac01446d.css.map": "/Portfolio-react/static/css/main.ac01446d.css.map",
+    "main.a7225b0d.js.map": "/Portfolio-react/static/js/main.a7225b0d.js.map"
   },
   "entrypoints": [
-    "static/css/main.244c966e.css",
-    "static/js/main.8c284528.js"
+    "static/css/main.ac01446d.css",
+    "static/js/main.a7225b0d.js"
   ]
 }
